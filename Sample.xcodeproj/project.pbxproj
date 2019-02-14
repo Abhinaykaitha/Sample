@@ -13,6 +13,7 @@
 		79493C852215FA910072E43A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79493C832215FA910072E43A /* Main.storyboard */; };
 		79493C872215FA910072E43A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79493C862215FA910072E43A /* Assets.xcassets */; };
 		79493C8A2215FA910072E43A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79493C882215FA910072E43A /* LaunchScreen.storyboard */; };
+		79493C922215FBA20072E43A /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79493C912215FBA20072E43A /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		79493C862215FA910072E43A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79493C892215FA910072E43A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79493C8B2215FA910072E43A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79493C912215FBA20072E43A /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				79493C862215FA910072E43A /* Assets.xcassets */,
 				79493C882215FA910072E43A /* LaunchScreen.storyboard */,
 				79493C8B2215FA910072E43A /* Info.plist */,
+				79493C912215FBA20072E43A /* ThirdViewController.swift */,
 			);
 			path = Sample;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				79493C822215FA910072E43A /* SecondViewController.swift in Sources */,
 				79493C7E2215FA910072E43A /* AppDelegate.swift in Sources */,
+				79493C922215FBA20072E43A /* ThirdViewController.swift in Sources */,
 				79493C802215FA910072E43A /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
